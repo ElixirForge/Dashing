@@ -1,0 +1,25 @@
+Elixir Forge Studios
+
+Production & Programming - Wisam
+
+Font - PressStart2P by Codeman38
+https://www.fontspace.com/press-start-2p-font-f11591
+
+UI - Bayat Games
+https://github.com/BayatGames
+MIT License
+
+Skins & Mobs - Pixel Frog
+https://pixel-frog.itch.io/
+
+Fireball Effect - DkuCook
+https://opengameart.org/content/fire-ball-pixel
+
+SFX - Dan Knoflicek, phoenix1291, mieki256, MentalSanityOff
+https://opengameart.org/content/jump-landing
+https://opengameart.org/content/sound-effects-pack-2
+https://opengameart.org/content/male-dead-voice
+https://opengameart.org/content/jump-landing-sound
+
+Music - 8 bit surf by David Renda
+https://www.fesliyanstudios.com/royalty-free-music/downloads-c/8-bit-music/6
