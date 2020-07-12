@@ -12,6 +12,9 @@ MIT License
 Skins & Mobs - Pixel Frog
 https://pixel-frog.itch.io/
 
+Background & "Poof" effect - Ansimuz
+https://ansimuz.com/site/
+
 Fireball Effect - DkuCook
 https://opengameart.org/content/fire-ball-pixel
 
