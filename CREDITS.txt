@@ -9,7 +9,7 @@ UI - Bayat Games
 https://github.com/BayatGames
 MIT License
 
-Skins & Mobs - Pixel Frog
+Graphics - Pixel Frog
 https://pixel-frog.itch.io/
 
 Background & "Poof" effect - Ansimuz
@@ -24,5 +24,6 @@ https://opengameart.org/content/sound-effects-pack-2
 https://opengameart.org/content/male-dead-voice
 https://opengameart.org/content/jump-landing-sound
 
-Music - 8 bit surf by David Renda
-https://www.fesliyanstudios.com/royalty-free-music/downloads-c/8-bit-music/6
+Music - 8 bit retro by Cron Audio & Fizzy Pixel by a-hisa
+https://soundcloud.com/cron-audio
+https://a-hisa.newgrounds.com/
