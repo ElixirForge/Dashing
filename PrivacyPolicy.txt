@@ -7,8 +7,7 @@ If you choose to use my Service, then you agree to this privacy policy. Third pa
 --Information Collection and Use--
 
 The app does use third party services and APIs for advertising purposes and to facilitate in-app purchases. The Unity Monetization API, which is Google Play certified has been set up in a way such that it complies with advertising policies regarding children under 13 years old. 
-The only information the application itself uses is a unique device ID which is stored in the game's save file in order to prevent the save files from being copied between devices so that app purchases cannot be moved from a paying user's device to a non-paying user's device. 
-The application does not require any permissions to access sensors, microphone, camera or any device peripherals that could violate the user's privacy in any way.
+The only information the application itself uses is a unique device ID which is stored in the game's save file in order to prevent the save files from being copied between devices so that app purchases cannot be moved from a paying user's device to a non-paying user's device. The application does not require any permissions to access sensors, microphone, camera or any device peripherals that could violate the user's privacy in any way.
 
 Link to privacy policy of third party service providers used by the app:
 • Google Play Services (https://policies.google.com/privacy)
