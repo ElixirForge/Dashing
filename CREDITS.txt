@@ -3,27 +3,26 @@ Elixir Forge Studios
 Production & Programming - Wisam
 
 Font - PressStart2P by Codeman38
-https://www.fontspace.com/press-start-2p-font-f11591
+https://www.fontspace.com/press-start-2p-font-f11591 (SIL Open Font License)
 
 UI - Bayat Games
-https://github.com/BayatGames
-MIT License
+https://github.com/BayatGames (MIT License)
 
 Graphics - Pixel Frog
-https://pixel-frog.itch.io/
+https://pixel-frog.itch.io/ (Permission by author)
 
 Background & "Poof" effect - Ansimuz
-https://ansimuz.com/site/
+https://ansimuz.com/site/ (CC0 Public Domain)
 
 Fireball Effect - DkuCook
-https://opengameart.org/content/fire-ball-pixel
+https://opengameart.org/content/fire-ball-pixel (CC0 Public Domain)
 
 SFX - Dan Knoflicek, phoenix1291, mieki256, MentalSanityOff
-https://opengameart.org/content/jump-landing
-https://opengameart.org/content/sound-effects-pack-2
-https://opengameart.org/content/male-dead-voice
-https://opengameart.org/content/jump-landing-sound
+https://opengameart.org/content/jump-landing (CC0 Public Domain)
+https://opengameart.org/content/sound-effects-pack-2 (CC0 Public Domain)
+https://opengameart.org/content/male-dead-voice (CC0 Public Domain)
+https://opengameart.org/content/jump-landing-sound (CC0 Public Domain)
 
 Music - 8 bit retro by Cron Audio & Fizzy Pixel by a-hisa
-https://soundcloud.com/cron-audio
-https://a-hisa.newgrounds.com/
+https://soundcloud.com/cron-audio (Permission by author)
+https://a-hisa.newgrounds.com/ (CC BY 3.0)
