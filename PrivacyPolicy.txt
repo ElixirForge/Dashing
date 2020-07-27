@@ -1,7 +1,7 @@
 ==Privacy Policy==
 
 Elixir Forge built the Dashing Pixels app as a Commercial app. This SERVICE is provided by Elixir Forge and is intended for use as is.
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use this Service.
+This page is used to inform visitors regarding Elixir Forge's policies with the collection, use, and disclosure of Personal Information if anyone decided to use this Service.
 If you choose to use this Service, then you agree to this privacy policy. Third parties such as Google and Unity may collect such information in order to improve the service, to facilitate in-app purchases or to display advertisements; all on behalf of the application. We, Elixir Forge, do not receive any personal information; the same does not necessarily apply to the third parties mentioned.
 
 --Information Collection and Use--
