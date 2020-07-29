@@ -8,6 +8,9 @@ https://www.fontspace.com/press-start-2p-font-f11591 (SIL Open Font License)
 UI - Bayat Games
 https://github.com/BayatGames (MIT License)
 
+Swipe Icon - Pixel Perfect on Flaticon
+https://www.flaticon.com/free-icon/swipe_624846 (Flaticon License)
+
 Graphics - Pixel Frog
 https://pixel-frog.itch.io/ (Permission by author)
 
